@@ -12,6 +12,7 @@
 ![family_movies_rental_duration](https://github.com/claireon/dvdrentals-sql/blob/main/image.png)
 
 - top_10_customers.sql explores and the top 10 customers of the store
+
 ![top_10_customers](https://github.com/claireon/dvdrentals-sql/blob/main/top_10_customers_viz.png)
 
 - top_10_customer_monthly_payment_differences.sql aims to evaluate the differences in monthly payments by the top 10 customers
