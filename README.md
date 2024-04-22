@@ -1,4 +1,4 @@
-# dvdrentals-sql
+# dvdrentals-eda
 
 ## Overview
 - In this project, I use SQL to explore a database related to movie rentals. I wrote SQL code to run SQL queries and answer interesting questions about the database.
